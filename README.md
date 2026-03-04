@@ -1,15 +1,93 @@
-<h1 align="center">Hi 👋, I'm salma adan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Salma Adam</h1>
+<h3 align="center">IT Graduate | Data Engineering & AI Enthusiast | Building Scalable, Intelligent Systems</h3>
 
-- 🌱 I’m currently learning **I’mmodern data engineering, automation, and AI-driven problem solving**
+---
 
-- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/zelmah252](https://www.datascienceportfol.io/zelmah252)
+<h3 align="left">🌍 About Me</h3>
 
-- 📫 How to reach me **zelmah252@gmail.com**
+<p>
+I am an IT graduate with a strong passion for Data Engineering, Analytics, Automation, and Artificial Intelligence. 
+I enjoy transforming raw data into structured insights and building scalable systems that solve real-world problems.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+My interest lies in designing modern data workflows — from data collection and cleaning to processing, visualization, 
+and intelligent decision-making. I am continuously improving my technical skills and exploring how automation 
+and AI can optimize business operations and drive strategic growth.
+
+I believe technology should not just function — it should create impact.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
+
+<h3 align="left">🌱 Currently Learning</h3>
+
+<ul>
+<li>Modern Data Engineering & ETL Pipelines</li>
+<li>Automation & Workflow Optimization</li>
+<li>AI-Driven Problem Solving</li>
+<li>Cloud Data Infrastructure</li>
+<li>Scalable System Design</li>
+</ul>
+
+---
+
+<h3 align="left">💻 Languages & Technologies</h3>
+
+<h4>Programming Languages</h4>
+
+<ul>
+<li>Python</li>
+<li>JavaScript</li>
+<li>C++</li>
+<li>SQL</li>
+</ul>
+
+<h4>Data & Analytics</h4>
+
+<ul>
+<li>Power BI</li>
+<li>Microsoft Excel (Advanced)</li>
+<li>MySQL</li>
+<li>Apache Hive</li>
+<li>Kibana</li>
+</ul>
+
+<h4>Web & Development</h4>
+
+<ul>
+<li>HTML5</li>
+<li>React.js</li>
+<li>Node.js</li>
+<li>GraphQL</li>
+<li>Flutter</li>
+</ul>
+
+<h4>Databases & Tools</h4>
+
+<ul>
+<li>CouchDB</li>
+<li>MySQL</li>
+<li>Git & GitHub</li>
+<li>REST APIs</li>
+</ul>
+
+---
+
+<h3 align="left">🚀 Projects</h3>
+
+<p>
+Explore my data-driven projects, dashboards, and case studies here:
+</p>
+
+👉 https://www.datascienceportfol.io/zelmah252  
+
+---
+
+<h3 align="left">📫 Connect With Me</h3>
+
+<p>Email: <b>zelmah252@gmail.com</b></p>
+
+---
+
+<p align="center">
+💡 “Turning data into decisions. Building systems that scale.”
+</p>
