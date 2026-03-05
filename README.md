@@ -1,5 +1,5 @@
 <h1 align="center"> 👋I'm Salmo Adan ali</h1>
-<h3 align="center">I’m an IT graduate from East Africa passionate about Data Engineering, Analytics, Automation and AI. I turn raw data into insights and build scalable systems that create real world impact.</h3>
+<h3 align="center"> an IT graduate from East Africa passionate about Data Engineering, Analytics, Automation and AI. I turn raw data into insights and build scalable systems that create real world impact.</h3>
 
 - 🌱 I’m currently learning **I’mmodern data engineering, automation, and AI-driven problem solving**
 
