@@ -1,11 +1,42 @@
-<h1 align="center">Hi 👋, I'm Salmo Adan ali</h1>
-<h3 align="center">I’m an IT graduate from East Africa passionate about Data Engineering, Analytics, Automation and AI. I turn raw data into insights and build scalable systems that create real world impact.</h3>
+<h3 align="center">Data Analytics • SOC Analyst</h3>
 
-- 🌱 I’m currently learning **I’mmodern data engineering, automation, and AI-driven problem solving**
+<p align="center">
+IT graduate from East Africa focused on data analytics and cybersecurity.  
+I work with data security monitoring and understanding system behavior and threats in real-world environments.
+</p>
+---
 
-- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/zelmah252](https://www.datascienceportfol.io/zelmah252)
+## 🌸 What I’m Currently Working On
 
-- 📫 How to reach me **zelmah252@gmail.com**
+- 🛡️ MITRE ATT&CK & SHIELD Cybersecurity Training Lab  
+  https://github.com/delilah-lab/MITRE-ATT-CK-SHIELD-Cybersecurity-Training-Lab  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scully.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/scullyio/scully/main/assets/logos/SVG/scullyio-icon.svg" alt="scully" width="40" height="40"/> </a> </p>
+- 🔍 SOC analysis (monitoring alerts, logs, and detecting threats)  
+
+- 📊 Data analytics using Python and SQL  
+
+---
+
+## 🛠️ Tools I Use
+
+- Python 🐍  
+- SQL 🗄️  
+- Power BI 📊  
+- Kibana 🔍  
+ 
+---
+
+## 🌷 About Me
+
+I’m passionate about learning improving my skills and building small projects that help me grow in cybersecurity and data analytics.  
+
+---
+
+## 📫 Contact Me
+
+📧 Email: **zelmah252@gmail.com**  
+🌐 Portfolio: https://www.datascienceportfol.io/zelmah252  
+
+---
+
+💫 *Thanks for visiting my profile!*
