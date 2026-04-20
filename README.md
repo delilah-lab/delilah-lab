@@ -28,7 +28,7 @@ I work with data security monitoring and understanding system behavior and threa
 
 ## 🌷 About Me
 
-I’m passionate about learning improving my skills and building small projects that help me grow in cybersecurity and data analytics.  
+I’m highly motivated to continuously develop my skills and build practical projects to advance my expertise in cybersecurity and data analytics.  
 
 ---
 
